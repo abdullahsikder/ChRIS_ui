@@ -47,6 +47,7 @@ const LocalFileUpload: React.FC = () => {
           });
         }}
       />
+      <img src={file} /> 
     </div>
   ));
 
